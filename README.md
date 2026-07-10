@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0278-first-bad-version) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0832-flipping-an-image) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
