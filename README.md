@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0832-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
