@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -54,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
