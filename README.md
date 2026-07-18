@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0509-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
