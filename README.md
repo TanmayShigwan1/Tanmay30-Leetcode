@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0509-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0704-binary-search) |
