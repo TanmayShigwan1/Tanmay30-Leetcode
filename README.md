@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0342-power-of-four) |
