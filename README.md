@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
