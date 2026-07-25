@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1929-concatenation-of-array) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0125-valid-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
