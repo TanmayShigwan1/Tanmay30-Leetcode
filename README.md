@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0509-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
