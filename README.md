@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0041-first-missing-positive) |
+| [0074-search-a-2d-matrix](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0278-first-bad-version) |
