@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -129,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0645-set-mismatch) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
