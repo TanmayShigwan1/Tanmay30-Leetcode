@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3731-find-missing-elements](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3731-find-missing-elements](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3731-find-missing-elements](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
