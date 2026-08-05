@@ -8,10 +8,23 @@ class Solution {
             return new ArrayList<>();
         }
 
-        return helper("", digits);
+        String[] map = {
+                "",     // 0
+                "",     // 1
+                "abc",  // 2
+                "def",  // 3
+                "ghi",  // 4
+                "jkl",  // 5
+                "mno",  // 6
+                "pqrs", // 7
+                "tuv",  // 8
+                "wxyz"  // 9
+        };
+
+        return helper("", digits, map);
     }
 
-    static List<String> helper(String p, String up) {
+    static List<String> helper(String p, String up, String[] map) {
 
         if (up.isEmpty()) {
             List<String> list = new ArrayList<>();
@@ -21,28 +34,12 @@ class Solution {
 
         int digit = up.charAt(0) - '0';
 
+        String letters = map[digit];
+
         List<String> ans = new ArrayList<>();
 
-        int start;
-        int end;
-
-        if (digit < 7) {
-            start = (digit - 2) * 3;
-            end = start + 3;
-        } else if (digit == 7) {
-            start = 15;
-            end = 19;
-        } else if (digit == 8) {
-            start = 19;
-            end = 22;
-        } else { // digit == 9
-            start = 22;
-            end = 26;
-        }
-
-        for (int i = start; i < end; i++) {
-            char ch = (char) ('a' + i);
-            ans.addAll(helper(p + ch, up.substring(1)));
+        for (int i = 0; i < letters.length(); i++) {
+            ans.addAll(helper(p + letters.charAt(i), up.substring(1), map));
         }
 
         return ans;
