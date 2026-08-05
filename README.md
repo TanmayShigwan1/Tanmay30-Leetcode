@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
@@ -171,10 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0494-target-sum](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0344-reverse-string) |
 ## Prefix Sum
