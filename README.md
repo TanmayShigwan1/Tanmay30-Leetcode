@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0509-fibonacci-number) |
@@ -225,4 +226,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
