@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0344-reverse-string) |
 ## Prefix Sum
@@ -246,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
