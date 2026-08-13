@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0509-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1929-concatenation-of-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
