@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0494-target-sum) |
 ## String
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0412-fizz-buzz) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0022-generate-parentheses) |
 ## Database
 |  |
 | ------- |
