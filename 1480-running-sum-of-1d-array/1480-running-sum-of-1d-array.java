@@ -1,9 +1,9 @@
 class Solution {
     public int[] runningSum(int[] nums) {
-        for (int i = 1; i < nums.length; i++) {
-            // Update the current element by adding the previous element to it
-            nums[i] = nums[i] + nums[i - 1]; 
-        }
-        return nums;
+        int[] prefix=new int[nums.length];
+        prefix[0]=nums[0];
+        for(int i=1;i<nums.length;i++){
+            prefix[i]=nums[i]+prefix[i-1];
+        }return prefix;
     }
 }
