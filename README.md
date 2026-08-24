@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3731-find-missing-elements](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2418-sort-the-people](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0796-rotate-string) |
+| [2418-sort-the-people](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
