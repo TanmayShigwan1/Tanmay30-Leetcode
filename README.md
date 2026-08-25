@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
