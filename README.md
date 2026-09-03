@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3731-find-missing-elements](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/TanmayShigwan1/Tanmay30-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
